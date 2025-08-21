@@ -9,7 +9,7 @@ Este projeto tem o objetivo de criar uma rede de computadores usando somente ser
 
 ## Diagrama do projeto:
 
-![Diagrama do projeto](/img/diag_rede_linux.png)
+![Diagrama do projeto](./diag_rede_linux.png)
 
 
 ## Dados da rede:
