@@ -1,7 +1,7 @@
 # Rede Linux
 
 
-Este projeto tem o objetivo de criar uma rede de computadores usando somente servidores Linux.
+Este projeto tem o objetivo de criar uma rede de computadores usando somente servidores Linux com o sistema operacional **Debian 13 (Trixie)**.
 <!-- 
 [Post no blog](https://blog.ferpdias.com.br/projetos/rede_linux/)
 -->
