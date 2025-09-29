@@ -1,6 +1,6 @@
 # Firewall
 
-Segue um passo a passo para a configuração clássica dde um servidor Firewall.
+Segue um passo a passo para a configuração clássica de um servidor Firewall.
 
 <br/>
 
@@ -28,7 +28,7 @@ net.ipv4.ip_forward=1
 Aplique a configuração:
 
 ```bash
-sudo sysctl -p
+sudo sysctl --system
 ```
 
 <br/>
