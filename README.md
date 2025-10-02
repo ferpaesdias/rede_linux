@@ -18,6 +18,7 @@ Esta rede está dividida em 03 redes diferentes:
 - Internet: `10.0.1.0/24`
 - DMZ: `10.0.2.0/24`
 - LAN Clientes: `10.0.3.0/24` 
+  - Domínio: `totolab.lan`
 
 <br />
 
